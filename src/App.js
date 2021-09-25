@@ -4,7 +4,7 @@ import Lecturer from './components/Lecturer/Lecturer';
 
 function App() {
   return (
-    <div>
+    <div className="App">
      <Header></Header>
      <Lecturer></Lecturer>
     

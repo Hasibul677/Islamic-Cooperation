@@ -1,0 +1,92 @@
+[
+    {
+      "key": 1,
+      "name": "Mizanur Rahnam",
+      "country": "Bangladesh",
+      "language": "Bangla & English",
+      "cost": "$12000",
+      "ratting": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lTuHXMWbedndKtO7SvbbBeaK2fLI72PJiw&usqp=CAU"
+    },
+    {
+      "key": 2,
+      "name": "Golam Sarwar",
+      "country": "Bangladesh",
+      "language": "Bangla & English",
+      "cost": "$19000",
+      "ratting": 4.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Cj9NRvV6L5NPi87_RLKyzKWZDUCuh7UROUnrQs1TOoUVQLWPuC99931LyrlJEEs-ieU&usqp=CAU"
+    },
+    {
+      "key": 3,
+      "name": "Toha Adnan",
+      "country": "Bangladesh",
+      "language": "Bangla & English",
+      "cost": "$10000",
+      "ratting": 4.3,
+      "image": "https://pbs.twimg.com/media/E31GfmbVgAMzWW9.jpg"
+    },
+    {
+      "key": 4,
+      "name": "Tariq Jameel",
+      "country": "Pakistan",
+      "language": "Urdhu & English",
+      "cost": "$25000",
+      "ratting": 5,
+      "image": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/download-1-1.jpg"
+    },
+    {
+      "key": 5,
+      "name": "Dr Zakir Nayek",
+      "country": "India",
+      "language": "Bangla & English",
+      "cost": "$50000",
+      "ratting": 4.8,
+      "image": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/unnamed.jpg"
+    },
+    {
+      "key": 6,
+      "name": "Taqi Usmani",
+      "country": "Pakisthan",
+      "language": "Urdhu & English",
+      "cost": "$10000",
+      "ratting": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vit2N0DISaL7bHEhpySxoudQONtnPamQjKm8Yi291IR85qmAX_3sVx0eRU1amJXIh_E&usqp=CAU"
+    },
+    {
+      "key": 7,
+      "name": "Mufti Menk",
+      "country": "Harare",
+      "language": "Arabic & English",
+      "cost": "$30000",
+      "ratting": 5,
+      "image": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/74b8987c9369497ea13b749ba8499290_18-1.jpg"
+    },
+    {
+      "key": 8,
+      "name": "Nouman Ali Khan",
+      "country": "America",
+      "language": "English",
+      "cost": "$14000",
+      "ratting": 5,
+      "image": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/nouman-ali-khan.jpg"
+    },
+    {
+      "key": 9,
+      "name": "Billal Phillips",
+      "country": "Jamaican",
+      "language": "English",
+      "cost": "$20000",
+      "ratting": 4.9,
+      "image": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/Dr-bilal-Profile-pic-1.jpg"
+    },
+    {
+      "key": 10,
+      "name": "Shaykh Ahmadullah",
+      "country": "Bangladesh",
+      "language": "Bangla",
+      "cost": "$12000",
+      "ratting": 4.9,
+      "image": "https://www.parhlo.com/wp-content/uploads/2021/06/unnamed-5.jpg.webp"
+    }
+  ]

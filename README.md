@@ -1,7 +1,7 @@
 # Organisation of Islamic Cooperation
 
 ## Live site link 
- [live site Link](https://developer-points-react-assignment-8.netlify.app/)  : https://developer-points-react-assignment-8.netlify.app/
+ [live site Link](https://islamic-cooperation.netlify.app/)  : https://islamic-cooperation.netlify.app/
 
 ## Available Scripts
 * React.js 

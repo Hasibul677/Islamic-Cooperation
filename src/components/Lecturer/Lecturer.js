@@ -7,6 +7,7 @@ const Lecturer = () => {
     // using state for load fakeData
     const [lecturers, setLecturers]=useState([]);
     const [cart, setCart] = useState([]);
+    const [keys, setKeys] = useState([]);
     useEffect(()=>{
         fetch('./fakeData.JSON')
         .then(res=> res.json())
@@ -14,8 +15,14 @@ const Lecturer = () => {
     },[]);
 
     const hireHandeler =lecturer=>{
-        const adding = [...cart, lecturer];
-        setCart(adding);
+        if(!keys.includes(lecturer.key)){
+            const adding = [...cart, lecturer];
+            setCart(adding);
+            setKeys([...keys,lecturer.key]);
+        }
+        else{
+            alert('This Member Already Hire by You');
+        }
     }
     return (
        <div className='parent mt-5'>
@@ -29,7 +36,8 @@ const Lecturer = () => {
                         hireHandeler={()=>hireHandeler(lecture)}></LectureHire>)
                 }
             </div>
-            <div>
+            {/* cart information part */}
+            <div className='mx-2'>
              <Cost cart={cart}></Cost>
             </div>
             

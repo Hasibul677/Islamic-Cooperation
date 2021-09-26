@@ -2,3 +2,7 @@ img{
     width: 200px;
     height: 200px;
 }
+.animation:hover{
+    transform: scale(1.01);
+    transition: transform .7s ease-in-out;
+}
